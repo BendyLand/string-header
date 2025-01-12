@@ -1,0 +1,6 @@
+compiler = "gcc"
+std = ""
+path = ""
+files = ["main.c"]
+include = []
+final = "main"
